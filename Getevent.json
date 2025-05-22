@@ -1,15 +1,17 @@
-{
-  "competition": "FootBall",
-  "teamA": {
-    "name": "SSC Napoli",
-    "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
-  },
-  "teamB": {
-    "name": "Cagliari",
-    "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png"
-  },
-  "startDate": "2025-05-23",
-  "startTime": "11:15PM",
-  "EndDate": "2025-05-24",
-  "EndTime": "01:00AM"
-}
+[
+  {
+    "competition": "Football",
+    "teamA": {
+      "name": "SSC Napoli",
+      "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
+    },
+    "teamB": {
+      "name": "Cagliari",
+      "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png"
+    },
+    "startDate": "2025-05-23",
+    "startTime": "11:15PM",
+    "endDate": "2025-05-24",
+    "endTime": "01:00AM"
+  }
+]
