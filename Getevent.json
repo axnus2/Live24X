@@ -1,7 +1,7 @@
 [
   { 
     "ID": "1",
-    "competition": "Cricket",
+     "competition": "Football",
     "teamA": {
       "name": "SSC Napoli",
       "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
