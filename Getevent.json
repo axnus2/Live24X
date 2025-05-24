@@ -36,6 +36,11 @@
         "endTime": "03:00AM"
     },
     {
+        "id": "ad1",
+        "imageUrl": "https://i.postimg.cc/nh3Yr9L0/Live24x.png",
+        "clickUrl": "https://example.com/promos/cricket-offer"
+    },
+    {
         "ID": "4",
         "competition": "Boxing",
         "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/03/boxingg.png",
@@ -52,6 +57,11 @@
         "startTime": "10:15PM",
         "endDate": "2025-05-25",
         "endTime": "03:00AM"
+    },
+    {
+        "id": "ad2",
+        "imageUrl": "https://i.postimg.cc/nh3Yr9L0/Live24x.png",
+        "clickUrl": "https://example.com/promos/football-offer"
     },
     {
         "ID": "3",
