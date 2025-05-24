@@ -1,7 +1,8 @@
 [
   { 
     "ID": "1",
-     "competition": "Football",
+    "competition": "Football",
+    "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
     "teamA": {
       "name": "SSC Napoli",
       "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
@@ -18,6 +19,7 @@
     { 
     "ID": "2",
     "competition": "Football",
+    "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
     "teamA": {
       "name": "SSC Napoli",
       "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
@@ -34,6 +36,7 @@
       { 
     "ID": "3",
     "competition": "Football",
+    "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
     "teamA": {
       "name": "SSC Napoli",
       "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
