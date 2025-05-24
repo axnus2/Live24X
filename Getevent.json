@@ -1,8 +1,8 @@
 [
   { 
     "ID": "1",
-    "competition": "Football",
-    "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png",
+    "competition": "Cricket",
+    "iconUrl": "https://sportzfy.com/wp-content/uploads/2025/04/crickettt.png",
     "event": "EPL",
     "teamA": {
       "name": "SSC Napoli",
