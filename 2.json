@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Now Sports 2",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono10/mono.m3u8",
+        "api": "",
+        "scheme": "0"
+    },
+    {
+        "name": "beIN Sports 2",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono52/mono.m3u8",
+        "api": "",
+        "scheme": "0"
+    },
+    {
+        "name": "DAZN1",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono80/mono.m3u8",
+        "api": "",
+        "scheme": "0"
+    },
+    {
+        "name": "ESPN Deportes",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+        "api": "",
+        "scheme": "0"
+    }
+]
