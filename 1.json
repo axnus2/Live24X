@@ -1,19 +1,25 @@
 [
     {
-        "name": "DAZN LaLiga 2",
-        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
+        "name": "Now Sports 2",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono10/mono.m3u8",
         "api": "",
         "scheme": "0"
     },
     {
-        "name": "MTV Urheilu 3",
-        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono73/mono.m3u8",
+        "name": "M+ LALIGA TV 2",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
         "api": "",
         "scheme": "0"
     },
     {
-        "name": "DAZN Eleven 3",
-        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono76/mono.m3u8",
+        "name": "beIN Sports 1",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono51/mono.m3u8",
+        "api": "",
+        "scheme": "0"
+    },
+    {
+        "name": "DAZN1",
+        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono80/mono.m3u8",
         "api": "",
         "scheme": "0"
     }
