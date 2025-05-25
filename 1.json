@@ -1,25 +1,25 @@
 [
     {
         "name": "Now Sports 2",
-        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono10/mono.m3u8",
+        "link": "https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8",
         "api": "",
         "scheme": "0"
     },
     {
         "name": "beIN Sports 2",
-        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono52/mono.m3u8",
+        "link": "https://dish.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8",
         "api": "",
         "scheme": "0"
     },
     {
         "name": "DAZN1",
-        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono80/mono.m3u8",
+        "link": "https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8",
         "api": "",
         "scheme": "0"
     },
     {
         "name": "ESPN Deportes",
-        "link": "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+        "link": "https://dish.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8",
         "api": "",
         "scheme": "0"
     }
