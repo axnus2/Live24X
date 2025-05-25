@@ -7,15 +7,19 @@
     },
     {
         "name": "beIN Sports 2",
-        "link": "https://dish.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8",
+        "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+        "origin": "https://bldcmprod-cdn.toffeelive.com",
+        "referrer": "",
+        "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+        "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1748363072:KeyName=prod_linear:Signature=U_22BpyNMvFpvgunOTpMRQ56Q2KHrzaetB-wP47EszG38gDFSB_APcNG0snz0QGK0hKIIIUNhbSiHbJj8OuTAg",
         "api": "",
         "scheme": "0"
     },
     {
         "name": "DAZN1",
-        "link": "https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8",
-        "api": "",
-        "scheme": "0"
+        "link": "https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
+        "api": "9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1",
+        "scheme": "1"
     },
     {
         "name": "ESPN Deportes",
