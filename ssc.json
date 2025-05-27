@@ -8,13 +8,11 @@
     "ID": "6",
     "name": "Sony Ten 1",
     "imageUrl": "https://i.imgur.com/AbC123.png",
-    "streamUrl": "https://example.com/stream2.m3u8"
   },
   {
     "ID": "7",
     "name": "ESPN",
     "imageUrl": "https://i.imgur.com/XyZ789.png",
-    "streamUrl": "https://example.com/stream3.m3u8"
   },
   {
     "ID": "8",
