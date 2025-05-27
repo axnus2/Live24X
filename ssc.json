@@ -2,23 +2,23 @@
   {
     "ID": "5",
     "name": "Star Sports 1",
-    "imageUrl": "https://i.imgur.com/JqYeYnV.png",
+    "imageUrl": "https://i.imgur.com/JqYeYnV.png"
   },
   {
-    "ID": "5",
+    "ID": "6",
     "name": "Sony Ten 1",
     "imageUrl": "https://i.imgur.com/AbC123.png",
     "streamUrl": "https://example.com/stream2.m3u8"
   },
   {
-    "ID": "5",
+    "ID": "7",
     "name": "ESPN",
     "imageUrl": "https://i.imgur.com/XyZ789.png",
     "streamUrl": "https://example.com/stream3.m3u8"
   },
   {
-   "ID": "5",
+    "ID": "8",
     "name": "BT Sport 1",
-    "imageUrl": "https://i.imgur.com/Def456.png",
+    "imageUrl": "https://i.imgur.com/Def456.png"
   }
 ]
