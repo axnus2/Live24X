@@ -1,21 +1,21 @@
 [
   {
-    "id": "5",
+    "ID": "5",
     "name": "Star Sports 1",
     "imageUrl": "https://i.imgur.com/JqYeYnV.png"
   },
   {
-    "id": "6",
+    "ID": "6",
     "name": "Sony Ten 1",
     "imageUrl": "https://i.imgur.com/AbC123.png"
   },
   {
-    "id": "7",
+    "ID": "7",
     "name": "ESPN",
     "imageUrl": "https://i.imgur.com/XyZ789.png"
   },
   {
-    "id": "8",
+    "ID": "8",
     "name": "BT Sport 1",
     "imageUrl": "https://i.imgur.com/Def456.png"
   }
