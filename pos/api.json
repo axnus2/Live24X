@@ -3,6 +3,9 @@
         "stats": "on",
         "poster": "https://i.ibb.co/6RH0Wm4Z/Max-T-1.jpg",
         "url": "https://www.game24x.xyz/",
+        "forcestats": "on",
+        "forcestime": "2",
+        "forceurl": "https://www.game24x.xyz/",
         "time": "8"
     }
 ]
