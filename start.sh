@@ -1,5 +1,17 @@
 #!/bin/bash
-# Make sure FFmpeg is installed on Render instance
-apt-get update && apt-get install -y ffmpeg
-# Start the bot
-python3 bot.py
+# Render start script for Telegram bot + FFmpeg streaming
+
+# Update system packages
+apt-get update -y
+
+# Install ffmpeg
+apt-get install -y ffmpeg
+
+# Upgrade pip
+python -m pip install --upgrade pip
+
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Start Telegram bot
+python bot.py
