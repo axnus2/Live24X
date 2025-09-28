@@ -5,6 +5,7 @@ from playwright.sync_api import sync_playwright
 
 app = Flask(__name__)
 
+# Fetch once at startup
 def fetch_sofascore_today():
     today = datetime.now().strftime("%Y-%m-%d")
     url = f"https://www.sofascore.com/api/v1/sport/football/scheduled-events/{today}"
@@ -18,11 +19,13 @@ def fetch_sofascore_today():
         browser.close()
         return data
 
+# Cache result at startup
+DATA_CACHE = fetch_sofascore_today()
+
 @app.route("/mapi.json")
 def serve_json():
-    data = fetch_sofascore_today()
     return Response(
-        json.dumps(data, indent=2, ensure_ascii=False),
+        json.dumps(DATA_CACHE, indent=2, ensure_ascii=False),
         mimetype="application/json"
     )
 
