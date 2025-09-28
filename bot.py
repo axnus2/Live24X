@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 from stream import start_stream, stop_stream, get_hls_url
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8077959112:AAFlSt64MyH0VPGSt3G90X-Ttmk7PpE9Xyw"
 
 def go(update: Update, context: CallbackContext):
     if len(context.args) == 0:
