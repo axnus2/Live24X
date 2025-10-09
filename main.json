@@ -1,0 +1,32 @@
+{
+  "sells": [
+    {
+      "product_id": "P001",
+      "product_name": "Coca Cola 500ml",
+      "product_price": 40.00,
+      "sell_price": 45.00,
+      "datetime": "2025-10-09T18:15:00"
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Pepsi 1L",
+      "product_price": 60.00,
+      "sell_price": 65.00,
+      "datetime": "2025-10-09T18:30:00"
+    }
+  ],
+  "expenses": [
+    {
+      "expense_id": "E001",
+      "expense_name": "Electricity Bill",
+      "amount": 1200.00,
+      "datetime": "2025-10-09T10:00:00"
+    },
+    {
+      "expense_id": "E002",
+      "expense_name": "Delivery Cost",
+      "amount": 300.00,
+      "datetime": "2025-10-09T12:45:00"
+    }
+  ]
+}
