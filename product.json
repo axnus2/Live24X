@@ -1,0 +1,25 @@
+{
+  "product_list": [
+    {
+      "product_id": "P001",
+      "product_name": "Coca Cola 500ml",
+      "purchase_price": 40.00,
+      "sell_price": 45.00,
+      "stock": 50
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Pepsi 1L",
+      "purchase_price": 60.00,
+      "sell_price": 65.00,
+      "stock": 30
+    },
+    {
+      "product_id": "P003",
+      "product_name": "Sprite 500ml",
+      "purchase_price": 35.00,
+      "sell_price": 40.00,
+      "stock": 40
+    }
+  ]
+}
