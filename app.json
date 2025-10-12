@@ -1,138 +1,126 @@
 {
-  "events": [
-    {
-      "sport": {
-        "name": "Cricket"
-      },
-      "tournament": {
-        "name": "Zimbabwe T20I Tri Series",
-        "image": "https://sportzfy.com/wp-content/uploads/2025/04/crickettt.png"
-      },
-      "homeTeam": {
-        "name": "Zimbabwe",
-        "image": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/indian-women-cricket.png"
-      },
-      "awayTeam": {
-        "name": "New Zealand",
-        "image": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australia-women.png"
-      },
-      "startTimestamp": "2025-10-11T09:30:00+00:00",
-      "live": [
+    "events": [
         {
-          "server_name": "Server 1",
-          "url": "https://example.com/live/zimbabwe-vs-newzealand/playlist.m3u8"
+            "sport": {
+                "name": "Cricket"
+            },
+            "tournament": {
+                "name": "Zimbabwe T20I Tri Series",
+                "image": "https://sportzfy.com/wp-content/uploads/2025/04/crickettt.png"
+            },
+            "homeTeam": {
+                "name": "Zimbabwe",
+                "image": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/indian-women-cricket.png"
+            },
+            "awayTeam": {
+                "name": "New Zealand",
+                "image": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australia-women.png"
+            },
+            "startTimestamp": "2025-10-11T09:30:00+00:00",
+            "live": [
+                {
+                    "server_name": "Server 1",
+                    "url": "https://example.com/live/zimbabwe-vs-newzealand/playlist.m3u8"
+                },
+                {
+                    "server_name": "Server 2",
+                    "url": "https://example.com/live/zimbabwe-vs-newzealand/manifest.mpd",
+                    "drm": "abcd1234abcd1234abcd1234abcd1234:1234abcd1234abcd1234abcd1234abcd"
+                }
+            ]
         },
         {
-          "server_name": "Server 2",
-          "url": "https://example.com/live/zimbabwe-vs-newzealand/manifest.mpd",
-          "drm": {
-            "key_id": "abcd1234abcd1234abcd1234abcd1234",
-            "key": "1234abcd1234abcd1234abcd1234abcd"
-          }
+            "sport": {
+                "name": "Football"
+            },
+            "tournament": {
+                "name": "Premier League",
+                "image": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png"
+            },
+            "homeTeam": {
+                "name": "Manchester United",
+                "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
+            },
+            "awayTeam": {
+                "name": "Arsenal",
+                "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png"
+            },
+            "startTimestamp": "2025-10-11T04:00:00+00:00",
+            "live": [
+                {
+                    "server_name": "Server 1",
+                    "url": "https://example.com/live/manutd-vs-arsenal/playlist.m3u8"
+                },
+                {
+                    "server_name": "Server 2",
+                    "url": "https://example.com/live/manutd-vs-arsenal/manifest.mpd",
+                    "drm": "efgh5678efgh5678efgh5678efgh5678:5678efgh5678efgh5678efgh5678efgh"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "sport": {
-        "name": "Football"
-      },
-      "tournament": {
-        "name": "Premier League",
-        "image": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png"
-      },
-      "homeTeam": {
-        "name": "Manchester United",
-        "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
-      },
-      "awayTeam": {
-        "name": "Arsenal",
-        "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png"
-      },
-      "startTimestamp": "2025-10-11T04:00:00+00:00",
-      "live": [
+    ],
+    "highlights": [
         {
-          "server_name": "Server 1",
-          "url": "https://example.com/live/manutd-vs-arsenal/playlist.m3u8"
+            "sport": {
+                "name": "Cricket"
+            },
+            "tournament": {
+                "name": "Zimbabwe T20I Tri Series",
+                "image": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png"
+            },
+            "homeTeam": {
+                "name": "Zimbabwe",
+                "image": "https://api.sofascore.com/api/v1/team/187745/image"
+            },
+            "awayTeam": {
+                "name": "New Zealand",
+                "image": "https://api.sofascore.com/api/v1/team/187755/image"
+            },
+            "live": [
+                {
+                    "server_name": "Server 1",
+                    "url": "https://example.com/live/zimbabwe-vs-newzealand/playlist.m3u8"
+                },
+                {
+                    "server_name": "Server 2",
+                    "url": "https://example.com/live/zimbabwe-vs-newzealand/manifest.mpd",
+                    "drm": "abcd1234abcd1234abcd1234abcd1234:1234abcd1234abcd1234abcd1234abcd"
+                }
+            ]
         },
         {
-          "server_name": "Server 2",
-          "url": "https://example.com/live/manutd-vs-arsenal/manifest.mpd",
-          "drm": {
-            "key_id": "efgh5678efgh5678efgh5678efgh5678",
-            "key": "5678efgh5678efgh5678efgh5678efgh"
-          }
+            "sport": {
+                "name": "Football"
+            },
+            "tournament": {
+                "name": "Premier League",
+                "image": "https://img.sofascore.com/api/v1/unique-tournament/17/image"
+            },
+            "homeTeam": {
+                "name": "Manchester United",
+                "image": "https://api.sofascore.com/api/v1/team/35/image"
+            },
+            "awayTeam": {
+                "name": "Arsenal",
+                "image": "https://api.sofascore.com/api/v1/team/42/image"
+            },
+            "live": [
+                {
+                    "server_name": "Server 1",
+                    "url": "https://example.com/live/manutd-vs-arsenal/playlist.m3u8"
+                },
+                {
+                    "server_name": "Server 2",
+                    "url": "https://example.com/live/manutd-vs-arsenal/manifest.mpd",
+                    "drm": "efgh5678efgh5678efgh5678efgh5678:5678efgh5678efgh5678efgh5678efgh"
+                }
+            ]
         }
-      ]
+    ],
+    "scroll_text": "🔥 Don't miss the action! Live updates, scores, and exclusive streams... 🏏⚽",
+    "join_telegram": {
+        "text": "Join our Telegram for instant match links and updates",
+        "url": "https://t.me/yourchannel",
+        "status": "on"
     }
-  ],
-  "highlights": [
-    {
-      "sport": {
-        "name": "Cricket"
-      },
-      "tournament": {
-        "name": "Zimbabwe T20I Tri Series",
-        "image": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png"
-      },
-      "homeTeam": {
-        "name": "Zimbabwe",
-        "image": "https://api.sofascore.com/api/v1/team/187745/image"
-      },
-      "awayTeam": {
-        "name": "New Zealand",
-        "image": "https://api.sofascore.com/api/v1/team/187755/image"
-      },
-      "live": [
-        {
-          "server_name": "Server 1",
-          "url": "https://example.com/live/zimbabwe-vs-newzealand/playlist.m3u8"
-        },
-        {
-          "server_name": "Server 2",
-          "url": "https://example.com/live/zimbabwe-vs-newzealand/manifest.mpd",
-          "drm": {
-            "key_id": "abcd1234abcd1234abcd1234abcd1234",
-            "key": "1234abcd1234abcd1234abcd1234abcd"
-          }
-        }
-      ]
-    },
-    {
-      "sport": {
-        "name": "Football"
-      },
-      "tournament": {
-        "name": "Premier League",
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17/image"
-      },
-      "homeTeam": {
-        "name": "Manchester United",
-        "image": "https://api.sofascore.com/api/v1/team/35/image"
-      },
-      "awayTeam": {
-        "name": "Arsenal",
-        "image": "https://api.sofascore.com/api/v1/team/42/image"
-      },
-      "live": [
-        {
-          "server_name": "Server 1",
-          "url": "https://example.com/live/manutd-vs-arsenal/playlist.m3u8"
-        },
-        {
-          "server_name": "Server 2",
-          "url": "https://example.com/live/manutd-vs-arsenal/manifest.mpd",
-          "drm": {
-            "key_id": "efgh5678efgh5678efgh5678efgh5678",
-            "key": "5678efgh5678efgh5678efgh5678efgh"
-          }
-        }
-      ]
-    }
-  ],
-  "scroll_text": "🔥 Don't miss the action! Live updates, scores, and exclusive streams... 🏏⚽",
-  "join_telegram": {
-    "text": "Join our Telegram for instant match links and updates",
-    "url": "https://t.me/yourchannel",
-    "status": "on"
-  }
 }
