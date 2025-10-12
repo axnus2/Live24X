@@ -16,7 +16,7 @@
         "name": "New Zealand",
         "image": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australia-women.png"
       },
-      "startTimestamp": 2025-10-11T09:30:00+00:00,
+      "startTimestamp": "2025-10-11T09:30:00+00:00",
       "live": [
         {
           "server_name": "Server 1",
@@ -48,7 +48,7 @@
         "name": "Arsenal",
         "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png"
       },
-      "startTimestamp": 2025-10-11T04:00:00+00:00,
+      "startTimestamp": "2025-10-11T04:00:00+00:00",
       "live": [
         {
           "server_name": "Server 1",
