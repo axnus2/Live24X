@@ -132,6 +132,7 @@
   "scroll_text": "🔥 Don't miss the action! Live updates, scores, and exclusive streams... 🏏⚽",
   "join_telegram": {
     "text": "Join our Telegram for instant match links and updates",
-    "url": "https://t.me/yourchannel"
+    "url": "https://t.me/yourchannel",
+    "status": "on"
   }
 }
