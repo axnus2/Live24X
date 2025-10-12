@@ -20,12 +20,12 @@
             "live": [
                 {
                     "server_name": "Server 1",
-                    "url": "https://example.com/live/zimbabwe-vs-newzealand/playlist.m3u8"
+                    "url": "https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8"
                 },
                 {
                     "server_name": "Server 2",
-                    "url": "https://example.com/live/zimbabwe-vs-newzealand/manifest.mpd",
-                    "drm": "abcd1234abcd1234abcd1234abcd1234:1234abcd1234abcd1234abcd1234abcd"
+                    "url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+                    "drm": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
                 }
             ]
         },
@@ -49,12 +49,12 @@
             "live": [
                 {
                     "server_name": "Server 1",
-                    "url": "https://example.com/live/manutd-vs-arsenal/playlist.m3u8"
+                    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
                 },
                 {
                     "server_name": "Server 2",
-                    "url": "https://example.com/live/manutd-vs-arsenal/manifest.mpd",
-                    "drm": "efgh5678efgh5678efgh5678efgh5678:5678efgh5678efgh5678efgh5678efgh"
+                    "url": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+                    "drm": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
                 }
             ]
         }
