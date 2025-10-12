@@ -6,15 +6,15 @@
       },
       "tournament": {
         "name": "Zimbabwe T20I Tri Series",
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1343/image"
+        "image": "https://sportzfy.com/wp-content/uploads/2025/04/crickettt.png"
       },
       "homeTeam": {
         "name": "Zimbabwe",
-        "image": "https://api.sofascore.com/api/v1/team/187745/image"
+        "image": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/indian-women-cricket.png"
       },
       "awayTeam": {
         "name": "New Zealand",
-        "image": "https://api.sofascore.com/api/v1/team/187755/image"
+        "image": "https://staticg.sportskeeda.com/skm/assets/team-logos/cricket/australia-women.png"
       },
       "startTimestamp": 1752817827,
       "live": [
@@ -38,15 +38,15 @@
       },
       "tournament": {
         "name": "Premier League",
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/17/image"
+        "image": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png"
       },
       "homeTeam": {
         "name": "Manchester United",
-        "image": "https://api.sofascore.com/api/v1/team/35/image"
+        "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png"
       },
       "awayTeam": {
         "name": "Arsenal",
-        "image": "https://api.sofascore.com/api/v1/team/42/image"
+        "image": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png"
       },
       "startTimestamp": 1752825000,
       "live": [
@@ -72,7 +72,7 @@
       },
       "tournament": {
         "name": "Zimbabwe T20I Tri Series",
-        "image": "https://img.sofascore.com/api/v1/unique-tournament/1343/image"
+        "image": "https://sportzfy.com/wp-content/uploads/2025/04/fotballll.png"
       },
       "homeTeam": {
         "name": "Zimbabwe",
