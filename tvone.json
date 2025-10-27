@@ -1,0 +1,32 @@
+[
+    {
+        "name": "EMBED TESTING s",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
+        "link": "http://c1.frsports.info/SKPSOC1/embed.html",
+        "clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
+    },
+    {
+        "name": "Fancode",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
+        "link": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+        "clearkey": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
+    },
+    {
+        "name": "T Sports",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
+        "link": "http://10.16.100.206:8080/hls/tsports.m3u8",
+        "clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
+    }
+]
