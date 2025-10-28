@@ -8,5 +8,10 @@
         "name": "SonyLiv",
         "img": "https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg",
         "url": "https://live24-x.vercel.app/tvone.json"
+    },
+    {
+        "name": "WW TESTING M3U",
+        "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/ad/4d/b0ad4dd2-4712-84b8-ca66-ff6c73913f59/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png",
+        "url": "https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/WorldSports.m3u"
     }
 ]
