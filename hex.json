@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Toffe",
+        "img": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/43/Toffee_logo.png",
+        "url": "https://max-x-six.vercel.app/toffee_channels.json"
+    },
+    {
+        "name": "SonyLiv",
+        "img": "https://www.bizasialive.com/wp-content/uploads/2020/05/899ec721-sonylivnew001.jpg",
+        "url": "https://live24-x.vercel.app/tvone.json"
+    }
+]
