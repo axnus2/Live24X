@@ -35,5 +35,15 @@
         "userAgent": "",
         "Origin": "",
         "referer": ""
+    },
+     {
+        "name": "Embed Bas Chack",
+        "logo": "https://4k.tvstb.me/stalker_portal/misc/logos/320/8864.jpeg",
+        "embed": "http://10.99.99.99/player.php?stream=102",
+        "clearkey": "",
+        "cookie": "",
+        "userAgent": "",
+        "Origin": "",
+        "referer": ""
     }
 ]
