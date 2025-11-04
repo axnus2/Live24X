@@ -1,0 +1,25 @@
+{
+  "timer": 2:00,
+  "images": [
+    {
+      "id": 1,
+      "url": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg"
+    },
+    {
+      "id": 2,
+      "url": "https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg"
+    },
+    {
+      "id": 3,
+      "url": "https://images.pexels.com/photos/540518/pexels-photo-540518.jpeg"
+    },
+    {
+      "id": 4,
+      "url": "https://images.pexels.com/photos/131723/pexels-photo-131723.jpeg"
+    },
+    {
+      "id": 5,
+      "url": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg"
+    }
+  ]
+}
