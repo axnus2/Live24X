@@ -3,277 +3,252 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bitmovin Player with Custom URL Input</title>
+    <title>Advanced DRM Video Player</title>
     <link rel="stylesheet" href="//cdn.bitmovin.com/player/web/8/bitmovinplayer-ui.css">
     <style>
-        * {
+        /* General Reset and Box Model */
+        *, *::before, *::after {
+            box-sizing: border-box;
             margin: 0;
             padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
-        
+
         body {
-            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
-            color: #fff;
-            min-height: 100vh;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: rgba(0, 0, 0, 0.7);
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-        }
-        
-        header {
-            background: rgba(0, 0, 0, 0.8);
-            padding: 20px;
-            text-align: center;
-            border-bottom: 2px solid #ff5722;
-        }
-        
-        h1 {
-            font-size: 2.2rem;
-            margin-bottom: 10px;
-            background: linear-gradient(90deg, #ff5722, #ff9800);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-        }
-        
-        .subtitle {
-            font-size: 1rem;
-            color: #aaa;
-            margin-bottom: 10px;
-        }
-        
-        .input-section {
-            padding: 20px;
-            background: rgba(30, 30, 30, 0.9);
-            border-bottom: 1px solid #333;
-        }
-        
-        .form-group {
-            margin-bottom: 15px;
-        }
-        
-        label {
-            display: block;
-            margin-bottom: 8px;
-            font-weight: 600;
-            color: #ff9800;
-        }
-        
-        input, select {
-            width: 100%;
-            padding: 12px 15px;
-            border: none;
-            border-radius: 8px;
-            background: rgba(255, 255, 255, 0.1);
-            color: white;
-            font-size: 16px;
-            border: 1px solid #444;
-            transition: all 0.3s;
-        }
-        
-        input:focus, select:focus {
-            outline: none;
-            border-color: #ff5722;
-            box-shadow: 0 0 0 2px rgba(255, 87, 34, 0.3);
-        }
-        
-        .key-inputs {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-        }
-        
-        .buttons {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
             display: flex;
-            gap: 10px;
-            margin-top: 20px;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
         }
-        
-        button {
-            flex: 1;
-            padding: 12px 20px;
-            border: none;
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: #1f1f1f;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+            text-align: center;
+            width: 95%;
+        }
+
+        .container h1 {
+            font-size: 2.5rem;
+            color: #ffffff;
+            font-weight: 700;
+            margin-bottom: 20px;
+            text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+        .video-container {
+            width: 100%;
+            margin-bottom: 20px;
+            border: 2px solid #333;
             border-radius: 8px;
-            font-weight: 600;
-            font-size: 16px;
-            cursor: pointer;
-            transition: all 0.3s;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
         }
-        
-        .btn-primary {
-            background: linear-gradient(90deg, #ff5722, #ff9800);
-            color: white;
-        }
-        
-        .btn-secondary {
-            background: rgba(255, 255, 255, 0.1);
-            color: white;
-            border: 1px solid #555;
-        }
-        
-        button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-        }
-        
-        .btn-primary:hover {
-            background: linear-gradient(90deg, #e64a19, #f57c00);
-        }
-        
-        .btn-secondary:hover {
-            background: rgba(255, 255, 255, 0.2);
-        }
-        
-        .player-section {
-            padding: 20px;
-        }
-        
+
         #player {
             width: 100%;
-            height: 500px;
-            border-radius: 10px;
-            overflow: hidden;
-            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+            height: 600px;
+            background: #000;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+        }
+
+        .container input, .container button {
+            width: 100%;
+            margin: 10px 0;
+            padding: 12px;
+            border-radius: 5px;
+            font-size: 16px;
+            border: 1px solid #555;
+            box-sizing: border-box;
+        }
+
+        .container input {
+            background-color: #222;
+            color: #fff;
+        }
+
+        .container input::placeholder {
+            color: #888;
+        }
+
+        .container button {
+            background-color: #1a73e8;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .container button:hover {
+            background-color: #155ab3;
+        }
+
+        .error-message {
+            color: #ff4444;
+            margin-top: 10px;
+            font-size: 14px;
+            display: none;
+            padding: 10px;
+            background: rgba(255, 68, 68, 0.1);
+            border-radius: 5px;
+            border: 1px solid #ff4444;
+        }
+
+        .success-message {
+            color: #4CAF50;
+            margin-top: 10px;
+            font-size: 14px;
+            display: none;
+            padding: 10px;
+            background: rgba(76, 175, 80, 0.1);
+            border-radius: 5px;
+            border: 1px solid #4CAF50;
+        }
+
+        .info-text {
+            margin-top: 15px;
+            color: #aaa;
+            font-size: 14px;
+            text-align: left;
         }
         
-        .info-section {
-            padding: 20px;
-            background: rgba(30, 30, 30, 0.9);
-            border-top: 1px solid #333;
-        }
-        
-        .info-section h3 {
-            color: #ff9800;
-            margin-bottom: 15px;
-            font-size: 1.3rem;
-        }
-        
-        .info-section p {
-            line-height: 1.6;
-            margin-bottom: 10px;
-            color: #ccc;
-        }
-        
-        .info-section ul {
+        .info-text ul {
+            margin: 10px 0;
             padding-left: 20px;
-            margin-bottom: 15px;
         }
         
-        .info-section li {
-            margin-bottom: 8px;
-            color: #ccc;
+        .info-text li {
+            margin-bottom: 5px;
         }
         
         .format-tags {
             display: flex;
             flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 10px;
+            gap: 8px;
+            margin-top: 15px;
+            justify-content: center;
         }
         
         .format-tag {
-            background: rgba(255, 87, 34, 0.2);
+            background: rgba(26, 115, 232, 0.2);
             padding: 5px 10px;
-            border-radius: 20px;
+            border-radius: 15px;
             font-size: 0.8rem;
-            border: 1px solid #ff5722;
+            border: 1px solid #1a73e8;
         }
-        
+
+        /* Mobile Responsiveness */
         @media (max-width: 768px) {
-            .key-inputs {
-                grid-template-columns: 1fr;
+            .container {
+                padding: 15px;
+                width: 100%;
+                max-width: 100%;
+                box-shadow: none;
             }
-            
+
             #player {
-                height: 300px;
+                height: 250px;
             }
-            
-            h1 {
+
+            .container h1 {
                 font-size: 1.8rem;
+            }
+
+            .container input, .container button {
+                font-size: 14px;
+                padding: 10px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 10px;
+            }
+
+            .container h1 {
+                font-size: 1.6rem;
+            }
+
+            #player {
+                height: 200px;
+            }
+
+            .container button {
+                font-size: 13px;
+                padding: 8px;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1>Bitmovin Video Player</h1>
-            <p class="subtitle">Play MPD, M3U8, MP4 with Widevine Clearkey DRM Support</p>
-        </header>
-        
-        <div class="input-section">
-            <div class="form-group">
-                <label for="videoUrl">Video URL</label>
-                <input type="text" id="videoUrl" placeholder="Enter MPD, M3U8, or MP4 URL">
-            </div>
-            
-            <div class="form-group">
-                <label for="formatType">Format Type</label>
-                <select id="formatType">
-                    <option value="auto">Auto Detect</option>
-                    <option value="dash">DASH (MPD)</option>
-                    <option value="hls">HLS (M3U8)</option>
-                    <option value="progressive">Progressive (MP4)</option>
-                </select>
-            </div>
-            
-            <div class="key-inputs">
-                <div class="form-group">
-                    <label for="kid">Key ID (KID)</label>
-                    <input type="text" id="kid" placeholder="Enter Key ID for Clearkey DRM">
-                </div>
-                
-                <div class="form-group">
-                    <label for="key">Key</label>
-                    <input type="text" id="key" placeholder="Enter Key for Clearkey DRM">
-                </div>
-            </div>
-            
-            <div class="buttons">
-                <button class="btn-primary" id="loadBtn">Load Video</button>
-                <button class="btn-secondary" id="clearBtn">Clear</button>
-            </div>
-        </div>
-        
-        <div class="player-section">
+        <h1>Advanced DRM Video Player</h1>
+        <div class="video-container">
             <div id="player"></div>
         </div>
         
-        <div class="info-section">
-            <h3>Supported Formats & Features</h3>
-            <p>This player supports various video formats with DRM protection:</p>
+        <!-- Status Messages -->
+        <div id="errorMessage" class="error-message"></div>
+        <div id="successMessage" class="success-message"></div>
+        
+        <!-- Input Fields for Video URL and DRM Information -->
+        <form id="videoForm">
+            <input type="text" id="link" placeholder="Enter MPD, M3U8, or MP4 URL" required />
+            <input type="text" id="clearKeyPair" placeholder="Enter ClearKey (keyId:key) [Optional]" />
+            <input type="text" id="widevineLicenseUrl" placeholder="Enter Widevine License URL [Optional]" />
+            <input type="text" id="clearKeyUrl" placeholder="Enter ClearKey URL [Optional]" />
+            <button type="button" id="playButton">Play Video</button>
+        </form>
+        
+        <div class="info-text">
+            <p><strong>Test URLs:</strong></p>
             <ul>
-                <li><strong>MPD (DASH)</strong> - Dynamic Adaptive Streaming over HTTP</li>
-                <li><strong>M3U8 (HLS)</strong> - HTTP Live Streaming</li>
-                <li><strong>MP4</strong> - Progressive download</li>
+                <li>MPD: https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd</li>
+                <li>HLS: https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8</li>
+                <li>MP4: https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</li>
             </ul>
-            <p>DRM Support:</p>
-            <ul>
-                <li><strong>Widevine Clearkey</strong> - Provide Key ID and Key for decryption</li>
-            </ul>
-            <div class="format-tags">
-                <span class="format-tag">MPD</span>
-                <span class="format-tag">M3U8</span>
-                <span class="format-tag">MP4</span>
-                <span class="format-tag">Widevine</span>
-                <span class="format-tag">Clearkey</span>
-                <span class="format-tag">Adaptive Bitrate</span>
-            </div>
+        </div>
+        
+        <div class="format-tags">
+            <span class="format-tag">MPD</span>
+            <span class="format-tag">M3U8</span>
+            <span class="format-tag">MP4</span>
+            <span class="format-tag">Widevine</span>
+            <span class="format-tag">Clearkey</span>
+            <span class="format-tag">DRM</span>
         </div>
     </div>
 
     <script src="//cdn.bitmovin.com/player/web/8/bitmovinplayer.js"></script>
     <script src="//cdn.bitmovin.com/player/web/8/bitmovinplayer-ui.js"></script>
     <script>
+        // Debug function
+        function showMessage(message, isError = false) {
+            const errorDiv = document.getElementById('errorMessage');
+            const successDiv = document.getElementById('successMessage');
+            
+            if (isError) {
+                errorDiv.textContent = message;
+                errorDiv.style.display = 'block';
+                successDiv.style.display = 'none';
+            } else {
+                successDiv.textContent = message;
+                successDiv.style.display = 'block';
+                errorDiv.style.display = 'none';
+            }
+            
+            console.log(isError ? 'ERROR: ' + message : 'SUCCESS: ' + message);
+        }
+
         // Override licensing URLs
         function override(url) {
             if (url.indexOf("licensing.bitmovin.com/licensing") > -1)
@@ -293,137 +268,151 @@
         // Player configuration
         const conf = {
             key: "6feaf539-dba6-4ec3-b9f3-92c0fa71dfed",
-            ui: false,
+            ui: true, // Changed to true to use default UI
             playback: {
                 autoplay: true,
-                muted: false,
+                muted: true, // Changed to true to avoid autoplay restrictions
                 autoplayEnabled: true,
                 mutedAutoplayEnabled: true
             },
-            streaming: {
-                dash: {
-                    lowLatency: true,
-                    liveDelay: 2,
-                    minLiveDelay: 1,
-                    maxLiveDelay: 6,
-                    updateInterval: 1,
-                    fastSwitching: true,
-                    segmentPreload: true,
-                    preloadAudioRenditions: true,
-                    robustMpdParsing: true,
-                    retryIntervals: [1, 2, 3],
-                    xhr: { withCredentials: false }
-                },
-                hls: {
-                    lowLatency: true,
-                    liveDelay: 2,
-                    minLiveDelay: 1,
-                    maxLiveDelay: 6,
-                    updateInterval: 1,
-                    fastSwitching: true,
-                    segmentPreload: true,
-                    preloadAudioRenditions: true,
-                    xhr: { withCredentials: false }
-                }
-            },
-            adaptation: {
-                switchInterval: 3000,
-                useBufferLevelForQualitySwitch: true
-            },
-            network: {
-                preprocessHttpResponse: function (type, response) {
-                    return response;
-                },
-                httpHeaders: { 'Cache-Control': 'no-cache', 'Pragma': 'no-cache' },
-                httpRetryCount: 2,
-                httpRetryInterval: 1000
-            },
-            buffer: { forward: 10, behind: 3 }
+            logging: {
+                level: 'debug' // Enable debug logging
+            }
         };
 
-        // Initialize player
-        var player = new bitmovin.player.Player(document.getElementById('player'), conf);
+        let player;
 
-        // UI Manager
-        var uiManager = new bitmovin.playerui.UIManager(player, bitmovin.playerui.UIFactory.buildDefaultTVUI());
+        // Initialize player when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            try {
+                player = new bitmovin.player.Player(document.getElementById('player'), conf);
+                showMessage('Player initialized successfully!');
+                
+                // Add event listeners for debugging
+                player.on(bitmovin.player.PlayerEvent.Ready, function() {
+                    console.log('Player is ready');
+                    showMessage('Player is ready and waiting for content');
+                });
+                
+                player.on(bitmovin.player.PlayerEvent.SourceLoaded, function() {
+                    console.log('Source loaded successfully');
+                    showMessage('Video source loaded successfully');
+                });
+                
+                player.on(bitmovin.player.PlayerEvent.Error, function(data) {
+                    console.error('Player error:', data);
+                    showMessage('Error: ' + (data.message || 'Unknown error occurred'), true);
+                });
+                
+                player.on(bitmovin.player.PlayerEvent.MetadataParsed, function(data) {
+                    console.log('Metadata parsed:', data);
+                });
+                
+            } catch (error) {
+                console.error('Failed to initialize player:', error);
+                showMessage('Failed to initialize player: ' + error.message, true);
+            }
+        });
 
         // DOM Elements
-        const videoUrlInput = document.getElementById('videoUrl');
-        const formatTypeSelect = document.getElementById('formatType');
-        const kidInput = document.getElementById('kid');
-        const keyInput = document.getElementById('key');
-        const loadBtn = document.getElementById('loadBtn');
-        const clearBtn = document.getElementById('clearBtn');
+        const videoUrlInput = document.getElementById('link');
+        const clearKeyPairInput = document.getElementById('clearKeyPair');
+        const widevineLicenseUrlInput = document.getElementById('widevineLicenseUrl');
+        const clearKeyUrlInput = document.getElementById('clearKeyUrl');
+        const playButton = document.getElementById('playButton');
 
         // Event Listeners
-        loadBtn.addEventListener('click', loadVideo);
-        clearBtn.addEventListener('click', clearInputs);
+        playButton.addEventListener('click', playVideo);
 
-        // Load video function
-        function loadVideo() {
+        // Play video function
+        function playVideo() {
             const url = videoUrlInput.value.trim();
-            const formatType = formatTypeSelect.value;
-            const kid = kidInput.value.trim();
-            const key = keyInput.value.trim();
+            const clearKeyPair = clearKeyPairInput.value.trim();
+            const widevineLicenseUrl = widevineLicenseUrlInput.value.trim();
+            const clearKeyUrl = clearKeyUrlInput.value.trim();
             
             if (!url) {
-                alert('Please enter a video URL');
+                showMessage('Please enter a video URL', true);
                 return;
             }
             
+            if (!player) {
+                showMessage('Player not initialized. Please refresh the page.', true);
+                return;
+            }
+            
+            showMessage('Loading video...');
+            
             let source = {
+                title: 'Custom Video',
                 poster: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Mb0O5o5z_YNLfcbNjILSw-kRR-uIXD31L9sMFhswqnSqj3Ho3XRWWbOLLe9ROvS5JSWHM1VKymuxBo-BwbzcpTQ03SjLuP6HuwIokQrCay1aZlT6h4wu84Q2qDlPxSdUp1MFCc5wdUN358jBx5tInVtteCRWEWrkCYn8HkgJt6Kk8e8hDKXDVPenpzGi/s1600/bgtv2.jpg'
             };
             
-            // Determine source type
-            if (formatType === 'auto') {
-                if (url.toLowerCase().endsWith('.mpd')) {
-                    source.dash = url;
-                } else if (url.toLowerCase().endsWith('.m3u8')) {
-                    source.hls = url;
-                } else {
-                    source.progressive = url;
-                }
-            } else if (formatType === 'dash') {
+            // Determine source type based on URL extension
+            if (url.toLowerCase().endsWith('.mpd')) {
                 source.dash = url;
-            } else if (formatType === 'hls') {
+                console.log('Detected DASH source');
+            } else if (url.toLowerCase().endsWith('.m3u8')) {
                 source.hls = url;
-            } else if (formatType === 'progressive') {
+                console.log('Detected HLS source');
+            } else if (url.toLowerCase().endsWith('.mp4')) {
                 source.progressive = url;
+                console.log('Detected MP4 source');
+            } else {
+                // Default to progressive for unknown formats
+                source.progressive = url;
+                console.log('Unknown format, defaulting to progressive');
             }
             
-            // Add DRM if keys are provided
-            if (kid && key) {
-                source.drm = {
-                    clearkey: [{ kid: kid, key: key }]
-                };
+            // Add DRM if provided
+            if (clearKeyPair) {
+                try {
+                    const [kid, key] = clearKeyPair.split(':');
+                    if (kid && key) {
+                        source.drm = {
+                            clearkey: {
+                                keyId: kid.trim(),
+                                key: key.trim()
+                            }
+                        };
+                        console.log('Added ClearKey DRM:', { kid: kid.trim(), key: key.trim() });
+                    } else {
+                        console.warn('Invalid ClearKey format. Expected format: keyId:key');
+                    }
+                } catch (e) {
+                    console.warn('Error parsing ClearKey pair:', e);
+                }
             }
+            
+            // Add Widevine license URL if provided
+            if (widevineLicenseUrl) {
+                if (!source.drm) source.drm = {};
+                source.drm.widevine = {
+                    LA_URL: widevineLicenseUrl
+                };
+                console.log('Added Widevine license URL:', widevineLicenseUrl);
+            }
+            
+            // Add ClearKey URL if provided
+            if (clearKeyUrl) {
+                if (!source.drm) source.drm = {};
+                source.drm.clearkey = {
+                    LA_URL: clearKeyUrl
+                };
+                console.log('Added ClearKey URL:', clearKeyUrl);
+            }
+            
+            console.log('Loading source:', source);
             
             // Load the source
             player.load(source).then(() => {
                 console.log('Video loaded successfully');
+                showMessage('Video loaded successfully!');
             }).catch(error => {
                 console.error('Error loading video:', error);
-                alert('Error loading video. Please check the URL and format.');
+                showMessage('Error loading video: ' + (error.message || 'Check console for details'), true);
             });
         }
-
-        // Clear inputs function
-        function clearInputs() {
-            videoUrlInput.value = '';
-            kidInput.value = '';
-            keyInput.value = '';
-            formatTypeSelect.value = 'auto';
-            player.unload();
-        }
-
-        // Error handling
-        player.on(bitmovin.player.PlayerEvent.Error, (data) => {
-            console.error('Player error:', data);
-            setTimeout(() => {
-                player.unload().then(() => player.load(source));
-            }, 2000);
-        });
 
         // Handle fullscreen changes for mobile devices
         function isMobileDevice() {
