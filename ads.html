@@ -3,21 +3,68 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-body { margin:0; padding:0; overflow:hidden; }
-</style>
+        body { 
+            margin: 0; 
+            padding: 0; 
+            overflow: hidden; 
+            background-color: #090B12; /* Match card background color */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Fill the entire container */
+        }
+        
+        /* Container for the ad */
+        .ad-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #090B12; /* Match card background */
+            border: 2px solid #03a693; /* Cyan border */
+            border-radius: 14px; /* Rounded corners */
+            box-sizing: border-box;
+        }
+        
+        /* Make the iframe fill the container */
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 12px; /* Slightly smaller radius than container */
+            overflow: hidden;
+        }
+    </style>
 </head>
 <body>
-
-<script type="text/javascript">
-  atOptions = {
-  	'key' : 'a266b159dea86b8a16d86183d9f94ab2',
-  	'format' : 'iframe',
-  	'height' : 90,
-  	'width' : 728,
-  	'params' : {}
-  };
-</script>
-<script type="text/javascript" src="//obligedmeditatedazed.com/a266b159dea86b8a16d86183d9f94ab2/invoke.js"></script>
-
+    <div class="ad-container">
+        <script type="text/javascript">
+            atOptions = {
+                'key' : 'a266b159dea86b8a16d86183d9f94ab2',
+                'format' : 'iframe',
+                'height' : 90,  // Your ad height
+                'width' : 728,   // Your ad width
+                'params' : {}
+            };
+            
+            // Adjust the iframe to fill container
+            document.addEventListener('DOMContentLoaded', function() {
+                // The ad script will inject an iframe
+                // We'll adjust it after a small delay
+                setTimeout(function() {
+                    var iframes = document.getElementsByTagName('iframe');
+                    for (var i = 0; i < iframes.length; i++) {
+                        // Make iframe fill its container
+                        iframes[i].style.width = '100%';
+                        iframes[i].style.height = '100%';
+                        iframes[i].style.borderRadius = '12px';
+                        iframes[i].style.overflow = 'hidden';
+                    }
+                }, 500); // Wait for ad script to load
+            });
+        </script>
+        <script type="text/javascript" src="//obligedmeditatedazed.com/a266b159dea86b8a16d86183d9f94ab2/invoke.js"></script>
+    </div>
 </body>
 </html>
