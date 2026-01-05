@@ -1,7 +1,7 @@
 [
     {
         "name": "Toffe",
-        "url": "https://cdn-toffee-playlist.pages.dev/ott_navigator.m3u"
+        "url": "https://raw.githubusercontent.com/Muji777/Exp/abee0d44bec7907d04af7bf7a411c5b185cb6c63/Asia"
     },
     {
         "name": "SonyLiv",
