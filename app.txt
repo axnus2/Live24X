@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Toffe",
+        "url": "https://max-x-six.vercel.app/toffee_channels.json"
+    },
+    {
+        "name": "SonyLiv",
+        "url": "https://live24-x.vercel.app/tvone.json"
+    },
+    {
+        "name": "WW TESTING M3U",
+        "url": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u"
+    },
+    {
+        "name": "WW TESTING M3U 2",
+        "url": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-Tv/refs/heads/main/playlist.m3u"
+    }
+]
