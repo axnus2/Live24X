@@ -1,19 +1,7 @@
 [
     {
-        "name": "Toffe",
-        "url": "https://live24-x.vercel.app/nn.m3u"
-    },
-  {
-        "name": "Toffex",
-        "url": "https://raw.githubusercontent.com/itusman6/private/6c993f5bea301ed005599dd7a5d2cdc4ea92ba82/izzigo%20official.m3u"
-    },
-    {
         "name": "SonyLiv",
         "url": "https://live24-x.vercel.app/tvone.json"
-    },
-    {
-        "name": "WW TESTING M3U",
-        "url": "https://raw.githubusercontent.com/alexandermail371/cricfytv/refs/heads/main/sunxt.m3u"
     },
     {
         "name": "WW TESTING M3U 2",
