@@ -1,7 +1,11 @@
 [
     {
         "name": "Toffe",
-        "url": "https://raw.githubusercontent.com/Muji777/Exp/abee0d44bec7907d04af7bf7a411c5b185cb6c63/Asia"
+        "url": "https://live24-x.vercel.app/nn.m3u"
+    },
+  {
+        "name": "Toffex",
+        "url": "https://raw.githubusercontent.com/itusman6/private/6c993f5bea301ed005599dd7a5d2cdc4ea92ba82/izzigo%20official.m3u"
     },
     {
         "name": "SonyLiv",
