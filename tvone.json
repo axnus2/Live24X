@@ -7,16 +7,16 @@
         "referer": ""
     },
     {
-        "name": "Sisu",
+        "name": "TEST EMBED",
         "logo": "http://10.16.100.244/files/sisu__hindi___english_.jpg",
-        "link": "http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/Dual%20Audio/Sisu%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4",
+        "embed": "http://tv.roarzone.info/player.php?stream=edge2/tsports",
         "userAgent": "",
         "referer": ""
     },
     {
         "name": "Mass Jathara",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjSxJPczEpBg_W9kb60P-Ks5dZ5Zs2hCaID1x8mOXl_RRieAx21wDd2e6BAZ4XyGFPu0Onw&s=10",
-        "link": "https://pixeldrain.dev/api/file/FSMVhDHX?download",
+        "embed": "https://www.youtube.com/watch?v=MC10wHkt8K8",
         "userAgent": "",
         "referer": ""
     },
