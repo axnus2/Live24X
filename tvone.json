@@ -1,71 +1,15 @@
 [
     {
-        "name": "XEMBED TESTING s",
-        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
-        "embed": "https://www.youtube.com/live/TdwhCOFh9OA?si=tgicCmn9rUTqQPG7",
+        "name": "Star Jalsha HD",
+        "logo": "http://tvassets.roarzone.info/images/30.png",
+        "embed": "http://tv.roarzone.info/player.php?stream=bk/30",
         "userAgent": "",
         "referer": ""
     },
     {
-        "name": "TEST EMBED",
-        "logo": "http://10.16.100.244/files/sisu__hindi___english_.jpg",
-        "embed": "http://tv.roarzone.info/player.php?stream=edge2/tsports",
-        "userAgent": "",
-        "referer": ""
-    },
-    {
-        "name": "Mass Jathara",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjSxJPczEpBg_W9kb60P-Ks5dZ5Zs2hCaID1x8mOXl_RRieAx21wDd2e6BAZ4XyGFPu0Onw&s=10",
-        "embed": "https://www.youtube.com/watch?v=MC10wHkt8K8",
-        "userAgent": "",
-        "referer": ""
-    },
-    {
-        "name": "au chack",
-        "logo": "http://10.16.100.244/files/kurukshetra_season_01__2025__completed.jpg",
-        "link": "http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/Dual%20Audio/Sisu%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4",
-        "userAgent": "",
-        "referer": ""
-    },
-    {
-        "name": "Kurukshetra  13",
-        "logo": "http://10.16.100.244/files/kurukshetra_season_01__2025__completed.jpg",
-        "link": "http://10.16.100.213/iccftps13/iccftps13sasd4/TV%20Show/Serials%20(Animation)/Kurukshetra%20Season%2001%20(2025)%20Completed/Kurukshetra%20S01E13.mp4",
-        "userAgent": "",
-        "referer": ""
-    },
-     {
-        "name": "Kurukshetra  14",
-        "logo": "http://10.16.100.244/files/kurukshetra_season_01__2025__completed.jpg",
-        "link": "http://10.16.100.213/iccftps13/iccftps13sasd4/TV%20Show/Serials%20(Animation)/Kurukshetra%20Season%2001%20(2025)%20Completed/Kurukshetra%20S01E14.mp4",
-        "userAgent": "",
-        "referer": ""
-    },
-     {
-        "name": "Kurukshetra  15",
-        "logo": "http://10.16.100.244/files/kurukshetra_season_01__2025__completed.jpg",
-        "link": "hhttp://10.16.100.213/iccftps13/iccftps13sasd4/TV%20Show/Serials%20(Animation)/Kurukshetra%20Season%2001%20(2025)%20Completed/Kurukshetra%20S01E15.mp4",
-        "userAgent": "",
-        "referer": ""
-    },
-     {
-        "name": "Kurukshetra  16",
-        "logo": "http://10.16.100.244/files/kurukshetra_season_01__2025__completed.jpg",
-        "link": "http://10.16.100.213/iccftps13/iccftps13sasd4/TV%20Show/Serials%20(Animation)/Kurukshetra%20Season%2001%20(2025)%20Completed/Kurukshetra%20S01E16.mp4",
-        "userAgent": "",
-        "referer": ""
-    },
-     {
-        "name": "Kurukshetra  17",
-        "logo": "http://10.16.100.244/files/kurukshetra_season_01__2025__completed.jpg",
-        "link": "http://10.16.100.213/iccftps13/iccftps13sasd4/TV%20Show/Serials%20(Animation)/Kurukshetra%20Season%2001%20(2025)%20Completed/Kurukshetra%20S01E17.mp4",
-        "userAgent": "",
-        "referer": ""
-    },
-     {
-        "name": "Kurukshetra  18",
-        "logo": "http://10.16.100.244/files/kurukshetra_season_01__2025__completed.jpg",
-        "link": "http://10.16.100.213/iccftps13/iccftps13sasd4/TV%20Show/Serials%20(Animation)/Kurukshetra%20Season%2001%20(2025)%20Completed/Kurukshetra%20S01E18.mp4",
+        "name": "Jalsha Movies",
+        "logo": "http://tvassets.roarzone.info/images/31.png",
+        "embed": "http://tv.roarzone.info/player.php?stream=bk/31",
         "userAgent": "",
         "referer": ""
     },
@@ -74,46 +18,6 @@
         "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
         "link": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
         "clearKey": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Tere Ishk Mein",
-        "logo": "http://10.16.100.244/files/tere_ishk_mein.jpg",
-        "link": "http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Hindi/Tere%20Ishk%20Mein%20(2025)%201080p%20CAMRip.mp4",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "SKY SPORTS PREM HD",
-        "logo": "https://4k.tvstb.me/stalker_portal/misc/logos/320/8864.jpeg",
-        "link": "https://bdsajibx.top/nox/ax/8866.m3u8",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-     {
-        "name": "Kantara A Legend: Chapter 1",
-        "logo": "https://www.bollywoodhungama.com/wp-content/uploads/2023/11/Kantara-banner.jpg",
-        "link": "http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Kantara%20Chapter%201%20(2025)%201080p%20WEBDL.mp4",
-        "clearkey": "",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-    {
-        "name": "Shakthi Thirumagan",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_auto/sources/r1/cms/prod/8818/1760541858818-i",
-        "link": "http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Shakthi%20Thirumagan%20(2025)%201080p%20WEBDL.mp4",
-        "clearkey": "",
         "cookie": "",
         "userAgent": "",
         "Origin": "",
