@@ -1,10 +1,14 @@
 [
     {
-        "name": "SonyLiv",
+        "name": "tv1",
         "url": "https://live24-x.vercel.app/tvone.json"
     },
+   {
+        "name": "tof",
+        "url": "https://cdn-toffee-playlist.pages.dev/ott_navigator.m3u"
+    },
     {
-        "name": "WW TESTING M3U 2",
+        "name": "tv2",
         "url": "https://raw.githubusercontent.com/axnus2/Live24X/refs/heads/main/tv1.m3u"
     }
 ]
