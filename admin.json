@@ -2,9 +2,9 @@
   {
     "version": "1.0.0",
     "update": {
-      "latest_version": "1.0.0",
-      "update_text": "added new decoder ... Update Now",
-      "download_url": "",
+      "latest_version": "1.0.1",
+      "update_text": "Added new decoder 🚀\nImproved speed\nBug fixes",
+      "download_url": "https://example.com/app.apk",
       "force_update": false
     }
   },
@@ -37,5 +37,11 @@
     "name": "Sk Tech",
     "api_base_url": "https://sufyanpromax.space/",
     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv3AGbxXdGfzLMin7joESqvOHj7hjN17e9VzaGlwqafufRczJC"
+  },
+    {
+    "enc": "PlayfyDecryptor",
+    "name": "PLAYFy TV",
+    "api_base_url": "https://app.playfytv.xyz/",
+    "image": "https://playfy.org/wp-content/uploads/2025/09/playfy-tv.webp"
   }
 ]
