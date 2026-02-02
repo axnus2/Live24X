@@ -18,5 +18,11 @@
     "name": "Sportzfy",
     "api_base_url": "https://jq777game.com/data/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPs1l7SfbL4-o6sJmvOUUwWhG-oEw6m71TVQ&s"
-  }
+  },
+ {
+    "enc": "HexSec",
+    "name": "Sk Tech",
+    "api_base_url": "https://sufyanpromax.space/",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv3AGbxXdGfzLMin7joESqvOHj7hjN17e9VzaGlwqafufRczJC"
+  },  
 ]
