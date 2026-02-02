@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.0",
+    "update": {
+      "latest_version": "1.0.0",
+      "download_url": "",
+      "force_update": false
+    }
+  },
+  {
     "name": "Cric Pk",
     "api_base_url": "https://snndndndsd.click/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0BnW6rXMz2llLuHS9BruuVBuDxSeCXYV2w&s"
@@ -19,10 +27,10 @@
     "api_base_url": "https://jq777game.com/data/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPs1l7SfbL4-o6sJmvOUUwWhG-oEw6m71TVQ&s"
   },
- {
+  {
     "enc": "HexSec",
     "name": "Sk Tech",
     "api_base_url": "https://sufyanpromax.space/",
     "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv3AGbxXdGfzLMin7joESqvOHj7hjN17e9VzaGlwqafufRczJC"
-  },  
+  }
 ]
