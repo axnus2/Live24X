@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "update": {
       "latest_version": "1.0.0",
+      "update_text": "added new decoder ... Update Now",
       "download_url": "",
       "force_update": false
     }
