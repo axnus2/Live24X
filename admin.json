@@ -9,22 +9,28 @@
     }
   },
   {
+    "enc": "PlayfyDecryptor",
+    "name": "PLAYFy TV",
+    "api_base_url": "https://app.playfytv.xyz/",
+    "image": "https://playfy.org/wp-content/uploads/2025/09/playfy-tv.webp"
+  },
+  {
+    "enc": "ghd",
+    "name": "GHD SPORTS",
+    "api_base_url": "https://ghdkabskskvhaa19.top/",
+    "image": "https://ghdsports.to/wp-content/uploads/2026/01/ghdsports.webp"
+  },
+   {
+    "enc": "HexSec",
+    "name": "Sk Tech",
+    "api_base_url": "https://sufyanpromax.space/",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv3AGbxXdGfzLMin7joESqvOHj7hjN17e9VzaGlwqafufRczJC"
+  },
+  {
     "enc": "ProSecurity2",
     "name": "Cric Pk",
     "api_base_url": "https://snndndndsd.click/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0BnW6rXMz2llLuHS9BruuVBuDxSeCXYV2w&s"
-  },
-{
-    "enc": "HexSec",
-    "name": "FalCon Cast",
-    "api_base_url": "https://online.murgirkhamar.xyz/",
-    "image": "https://modfyp.com/uploads/2025/12/falcon-cast-1.webp"
-  },
-{
-    "enc": "HexSec",
-    "name": "PlayZ Tv",
-    "api_base_url": "https://playztv2828.store/",
-    "image": "https://i.postimg.cc/15j5NQ01/20251106-1722-4K-Quality-Logo-remix-01k9cecxg7fmmsd5smg0wzeq37.png"
   },
   {
     "enc": "ProSecurity2",
@@ -44,22 +50,16 @@
     "api_base_url": "https://jq777game.com/data/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPs1l7SfbL4-o6sJmvOUUwWhG-oEw6m71TVQ&s"
   },
-  {
+ {
     "enc": "HexSec",
-    "name": "Sk Tech",
-    "api_base_url": "https://sufyanpromax.space/",
-    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv3AGbxXdGfzLMin7joESqvOHj7hjN17e9VzaGlwqafufRczJC"
+    "name": "FalCon Cast",
+    "api_base_url": "https://online.murgirkhamar.xyz/",
+    "image": "https://modfyp.com/uploads/2025/12/falcon-cast-1.webp"
   },
-    {
-    "enc": "PlayfyDecryptor",
-    "name": "PLAYFy TV",
-    "api_base_url": "https://app.playfytv.xyz/",
-    "image": "https://playfy.org/wp-content/uploads/2025/09/playfy-tv.webp"
-  },
-  {
-    "enc": "ghd",
-    "name": "GHD SPORTS",
-    "api_base_url": "https://ghdkabskskvhaa19.top/",
-    "image": "https://ghdsports.to/wp-content/uploads/2026/01/ghdsports.webp"
-  }
+{
+    "enc": "HexSec",
+    "name": "PlayZ Tv",
+    "api_base_url": "https://playztv2828.store/",
+    "image": "https://i.postimg.cc/15j5NQ01/20251106-1722-4K-Quality-Logo-remix-01k9cecxg7fmmsd5smg0wzeq37.png"
+  }   
 ]
