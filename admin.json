@@ -2,7 +2,7 @@
   {
     "version": "1.0.0",
     "update": {
-      "latest_version": "1.1.0",
+      "latest_version": "1.0.0",
       "update_text": "Added new decoder 🚀\nImproved speed\nBug fixes",
       "download_url": "https://example.com/app.apk",
       "force_update": false
