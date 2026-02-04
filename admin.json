@@ -67,5 +67,11 @@
     "name": "Ak47 Sports",
     "api_base_url": "https://jattfilms.lol/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rSnZjAPlMWsdmxUkN4HNYkqd9HTjMrhcuPvGsVxI5A&s=10"
+  }, 
+{
+    "enc": "ProSecurity2",
+    "name": "Asha Ott",
+    "api_base_url": "https://raw.githubusercontent.com/ashaott/ott/main/",
+    "image": "https://i.ibb.co.com/nhmcY99/playstore.png"
   } 
 ]
