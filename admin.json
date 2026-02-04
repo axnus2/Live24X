@@ -61,5 +61,11 @@
     "name": "PlayZ Tv",
     "api_base_url": "https://playztv2828.store/",
     "image": "https://i.postimg.cc/15j5NQ01/20251106-1722-4K-Quality-Logo-remix-01k9cecxg7fmmsd5smg0wzeq37.png"
-  }   
+  },
+{
+    "enc": "playz",
+    "name": "Ak47 Sports",
+    "api_base_url": "https://zerohazaarop.store/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rSnZjAPlMWsdmxUkN4HNYkqd9HTjMrhcuPvGsVxI5A&s=10"
+  } 
 ]
