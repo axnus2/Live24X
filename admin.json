@@ -38,12 +38,6 @@
     "api_base_url": "https://testedd.store/",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0BnW6rXMz2llLuHS9BruuVBuDxSeCXYV2w&s"
   },
-   {
-    "enc": "ProSecurity2",
-    "name": "FalconCast",
-    "api_base_url": "https://appapi.firebose.xyz/",
-    "image": "https://apktodo.io/uploads/2025/12/falcon-cast-icon.jpg"
-  },
   {
     "enc": "ProSecurity2",
     "name": "Tflix",
@@ -53,7 +47,7 @@
   {
     "enc": "ProSecurity2",
     "name": "CricZ",
-    "api_base_url": "http://onedtcwc.site",
+    "api_base_url": "https://onedtcwc.site/",
     "image": "https://apktodo.io/uploads/2025/5/screenshot15-150.png"
   },
   {
