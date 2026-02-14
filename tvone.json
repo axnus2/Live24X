@@ -1,15 +1,8 @@
 [
     {
-        "name": "The Raja Saab",
-        "logo": "http://10.16.100.244/files/the_raja_saab.jpg",
-        "link": "https://pixeldrain.dev/api/file/JimHc3kT?download",
-        "userAgent": "",
-        "referer": ""
-    },
-    {
-        "name": "Jalsha Movies",
-        "logo": "http://tvassets.roarzone.info/images/31.png",
-        "embed": "http://tv.roarzone.info/player.php?stream=bk/31",
+        "name": "Star Sports 1",
+        "logo": "https://tvassets.roarzone.info/images/25.png",
+        "embed": "https://tv.roarzone.info/player.php?stream=edge2/star-sports-1",
         "userAgent": "",
         "referer": ""
     },
@@ -18,16 +11,6 @@
         "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg",
         "link": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
         "clearKey": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-        "cookie": "",
-        "userAgent": "",
-        "Origin": "",
-        "referer": ""
-    },
-     {
-        "name": "Blue Beetle",
-        "logo": "http://10.16.100.244/files/blue_beetle__hindi___english_.jpg",
-        "link": "http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Dual%20Audio/Blue%20Beetle%20(2023)%20(Hindi%20&%20English)%201080p%20BluRay.mp4",
-        "clearkey": "",
         "cookie": "",
         "userAgent": "",
         "Origin": "",
