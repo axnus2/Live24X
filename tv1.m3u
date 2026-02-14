@@ -1,3 +1,128 @@
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/54044_tsports.png" group-title="Akash Go",T-Sports
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+# ===== SPORTS =====
+#EXTINF:-1 tvg-name="Sky Sports UHD" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/61891_sky-sports-mix.png",Sky Sports UHD
+http://filex.homes:8080/live/6211223641/6818489976/956620.ts
+
+#EXTINF:-1 tvg-name="Sony Sports 1" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/30594_Sony TEN 11667728321.png",Sony Sports 1
+http://103.151.61.12/ZAHIR_EN4P3/video.m3u8
+
+#EXTINF:-1 tvg-name="Sony Sports 2" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/64564_Sony TEN 21667728105.png",Sony Sports 2
+http://103.151.61.12/ZAHIR_EN8_87_107_P2/video.m3u8
+
+#EXTINF:-1 tvg-name="Sony Sports 5" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/4882_Sony TEN 51667728306.png",Sony Sports 5
+http://103.151.61.12/ZAHIR_EN8_87_107_P3/video.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 1" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/33619_Star Sports 11667750523.png",Star Sports 1
+http://103.151.61.12/ZAHIR_EN8_87_107_P6/video.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 2" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/66922_Star Sports 21667750538.png",Star Sports 2
+http://103.151.61.12/ZAHIR_EN4P4/video.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 2 Alt" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/12234_Star Sports 21667750538.png",Star Sports 2 Alt
+https://jmrj02jibon02khan.vercel.app/tracks-v1a1/starsports2/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports Select 1" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/70027_StarSports Select HD1667750883.png",Star Sports Select 1
+http://103.151.61.12/ZAHIR_EN8_87_107_P4/video.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports Select 2" group-title="Sports" tvg-logo="https://appstv.bdixbd.net/images/44068_Star Sports Select 21667750897.png",Star Sports Select 2
+http://103.151.61.12/ZAHIR_EN8_87_107_P5/video.m3u8
+
+
+# ===== MOVIES =====
+#EXTINF:-1 tvg-name="Sony Max" group-title="Movies" tvg-logo="https://appstv.bdixbd.net/images/34682_Sony Max HD1667728133.png",Sony Max
+http://103.151.61.12/sonymaxhd/video.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max HD" group-title="Movies" tvg-logo="https://appstv.bdixbd.net/images/54675_sonymax.jpg",Sony Max HD
+https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Star Gold" group-title="Movies" tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG",Star Gold
+http://103.151.61.12/StarGoldHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Star World" group-title="Movies" tvg-logo="https://appstv.bdixbd.net/images/95525_starworld.png",Star World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+
+
+# ===== ENTERTAINMENT =====
+#EXTINF:-1 tvg-name="Colors Rishtey" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/59687_COLORS RISHTEY.jpg",Colors Rishtey
+http://103.151.61.12/STAR_GOLD_THRILLS/video.m3u8
+
+#EXTINF:-1 tvg-name="Colors TV" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png",Colors TV
+http://103.151.61.12/ColorsHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Enter10 Bangla" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/10892_enterr10.jpg",Enter10 Bangla
+http://103.151.61.12/Enter10Bangla/video.m3u8
+
+#EXTINF:-1 tvg-name="Sony Entertainment" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/95268_Sony Entertainment1667728144.png",Sony Entertainment
+http://103.151.61.12/SonyHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/61777_sony.png",Sony Pal
+http://103.151.61.12/Sony_free/video.m3u8
+
+#EXTINF:-1 tvg-name="Star Plus" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/56524_STARPLUS.JPG",Star Plus
+http://103.151.61.12/StarPlusHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Zee TV" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png",Zee TV
+http://103.151.61.12/ZeeTVHD/video.m3u8
+
+
+# ===== EDUCATION =====
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Education" tvg-logo="https://appstv.bdixbd.net/images/69980_Animal Planet1664974986.png",Animal Planet
+http://103.151.61.12/ZAHIR_EN8_90_110_P2/video.m3u8
+
+#EXTINF:-1 tvg-name="Discovery HD" group-title="Education" tvg-logo="https://appstv.bdixbd.net/images/37311_Discovery1664975007.png",Discovery HD
+http://103.151.61.12/DiscoveryHD/video.m3u8
+
+
+# ===== KOLKATA =====
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/83397_kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg",Zee Bangla Cinema
+http://103.151.61.12/ZeeBanglaCinemaHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Akash Aath" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/27512_AakaashAath.png",Akash Aath
+https://cdn-4.pishow.tv/live/969/master.m3u8
+
+#EXTINF:-1 tvg-name="Colors Bangla" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/3283_Colors Bangla1664976841.png",Colors Bangla
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Colors Bangla HD" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/65612_COLORSBA.JPG",Colors Bangla HD
+http://103.151.61.12/ZAHIR_EN8_90_110_P5/video.m3u8
+
+#EXTINF:-1 tvg-name="Jolsha Movie" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG",Jolsha Movie
+http://103.151.61.12/KSBEN8_P2/video.m3u8
+
+#EXTINF:-1 tvg-name="Sangeet Bangla" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/48237_sangeetbangla.png",Sangeet Bangla
+http://103.151.61.12/Sangeet_Bangla/video.m3u8
+
+#EXTINF:-1 tvg-name="Sony Aath" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/70913_SONY_AAT.PNG",Sony Aath
+http://103.151.61.12/SonyAtth/video.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha
+http://103.151.61.12/StarJalshaHD/video.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha HD" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/67710_Star Jalsha1664976894.png",Star Jalsha HD
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Sun Bangla" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/16638_Sun_Bangla.png",Sun Bangla
+http://103.151.61.12/ZAHIR_EN8_90_110_P4/video.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/9379_ZEEBANGL.JPG",Zee Bangla
+http://103.151.61.12/ZAHIR_EN8_90_110_P3/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
