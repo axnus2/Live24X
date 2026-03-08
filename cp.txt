@@ -1,30 +1,34 @@
 [
   {
-    "name": "La Liga",
+    "name": "FootBall | La Liga",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/8Z71jZzpl-hQCQdkPZ-qy.png"
   },
   {
-    "name": "English Premier League",
+    "name": "FootBall | English Premier League",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/2kwbbcootiqqgmrzs6o5inle5.png"
   },
   {
-    "name": "Serie A",
+    "name": "FootBall | Serie A",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/1r097lpxe0xn03ihb7wi98kao.png"
   },
   {
-    "name": "Bundesliga",
+    "name": "FootBall | Bundesliga",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/large/6by3h89i2eykc341oz7lv1ddd.png"
   },
   {
-    "name": "Spain - Copa del Rey",
+    "name": "FootBall | Spain - Copa del Rey",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/apdwh753fupxheygs8seahh7x.png"
   },
   {
-    "name": "MLS",
+    "name": "FootBall | MLS",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/large/287tckirbfj9nb8ar2k9r60vn.png"
   },
   {
-    "name": "Saudi Pro League",
+    "name": "FootBall | Saudi Pro League",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/large/CrqM5zkxXrOj6PWWs3rd2.png"
+  },
+{
+    "name": "Cricket | ICC Men’s T20 World Cup",
+    "logo": "https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063"
   }
 ]
