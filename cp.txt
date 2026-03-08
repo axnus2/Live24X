@@ -27,7 +27,7 @@
     "name": "FootBall | Saudi Pro League",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/large/CrqM5zkxXrOj6PWWs3rd2.png"
   },
-{
+  {
     "name": "Cricket | ICC Men’s T20 World Cup",
     "logo": "https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063"
   }
