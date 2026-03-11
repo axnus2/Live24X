@@ -36,7 +36,7 @@
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/large/4oogyu6o156iphvdvphwpck10.png"
   },
   {
-    "name": "Cricket | ICC Men’s T20 World Cup",
-    "logo": "https://storage.allsportdb.com/orig/event/cebe7c12-b2c5-44a8-9b79-c7ac96565063"
+    "name": "Cricket | One Day International",
+    "logo": "https://i.ibb.co.com/WvgVhs7k/image.png"
   }
 ]
