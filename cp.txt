@@ -35,6 +35,10 @@
     "name": "FootBall | Champions League",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/large/4oogyu6o156iphvdvphwpck10.png"
   },
+{
+    "name": "FootBall | ENGLAND - CARABAO CUP",
+    "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/725gd73msyt08xm76v7gkxj7u.png?quality=60&auto=webp&format=pjpg"
+  },
   {
     "name": "Cricket | One Day International",
     "logo": "https://i.ibb.co.com/WvgVhs7k/image.png"
