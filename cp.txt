@@ -39,6 +39,10 @@
     "name": "FootBall | ENGLAND - CARABAO CUP",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/725gd73msyt08xm76v7gkxj7u.png?quality=60&auto=webp&format=pjpg"
   },
+{
+    "name": "FootBall | International - Friendlies",
+    "logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+  },
   {
     "name": "Cricket | One Day International",
     "logo": "https://i.ibb.co.com/WvgVhs7k/image.png"
