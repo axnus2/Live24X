@@ -53,7 +53,7 @@ https://cdn-4.pishow.tv/live/969/master.m3u8
 
 
 #EXTINF:-1 tvg-name="Colors Bangla HD" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/65612_COLORSBA.JPG",Colors Bangla HD
-http://103.151.61.12/ZAHIR_EN8_90_110_P5/video.m3u8
+http://103.180.212.191:3500/live/756.m3u8
 
 
 
