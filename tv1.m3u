@@ -62,10 +62,8 @@ http://103.151.61.12/ZAHIR_EN8_90_110_P5/video.m3u8
 http://103.151.61.12/SonyAtth/video.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha
-http://103.151.61.12/StarJalshaHD/video.m3u8
+http://lkn1.chowdhury-shaheb.com/starjalsha/index.m3u8
 
-#EXTINF:-1 tvg-name="Star Jalsha HD" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/67710_Star Jalsha1664976894.png",Star Jalsha HD
-https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-name="Zee Bangla" group-title="Kolkata" tvg-logo="https://appstv.bdixbd.net/images/9379_ZEEBANGL.JPG",Zee Bangla
