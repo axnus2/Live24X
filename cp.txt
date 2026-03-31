@@ -44,7 +44,7 @@
     "logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
   },
 {
-    "name": "FootBall | Asia - Asian Cup Qualification",
+    "name": "FootBall | Asian Cup Qualification",
     "logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
   },
   {
