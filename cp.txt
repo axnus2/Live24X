@@ -43,8 +43,16 @@
     "name": "FootBall | International - Friendlies",
     "logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
   },
+{
+    "name": "FootBall | Asia - Asian Cup Qualification",
+    "logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png"
+  },
   {
     "name": "Cricket | One Day International",
     "logo": "https://i.ibb.co.com/WvgVhs7k/image.png"
+  },
+{
+    "name": "Cricket | Indian Premier League",
+    "logo": "https://crystalpng.com/wp-content/uploads/2025/09/ipl-logo.png"
   }
 ]
