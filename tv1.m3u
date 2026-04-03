@@ -5,6 +5,13 @@
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Star Channels",Star Jalsha HD
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Star Channels",Star Jalsha FHD MAX
+http://str.tvs4k.xyz/live/b703814494/4342d7e60b/441082.m3u8
+
+
+
 # ===== MOVIES =====
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies" tvg-logo="https://appstv.bdixbd.net/images/34682_Sony Max HD1667728133.png",Sony Max
 http://198.195.239.50:8095/SonyMAX/index.m3u8
