@@ -23,18 +23,13 @@ http://198.195.239.50:8095/SonyMAX/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Enter10 Bangla" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/10892_enterr10.jpg",Enter10 Bangla
-http://198.195.239.50:8095/bdixbd.net_Enter10Bangla/video.m3u8
+
 
 #EXTINF:-1 tvg-name="Sony Entertainment" group-title="Entertainment" tvg-logo="https://appstv.bdixbd.net/images/95268_Sony Entertainment1667728144.png",Sony Entertainment
 http://198.195.239.50:8095/SonyTv/index.m3u8
 
 
 # ===== EDUCATION =====
-
-
-#EXTINF:-1 tvg-name="Discovery HD" group-title="Education" tvg-logo="https://appstv.bdixbd.net/images/37311_Discovery1664975007.png",Discovery HD
-http://198.195.239.50:8095/Discovery/index.m3u8
 
 
 # ===== KOLKATA =====
