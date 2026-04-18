@@ -1,9 +1,16 @@
 [
     {
-        "name": "Star Sports 1",
-        "logo": "https://tvassets.roarzone.info/images/25.png",
-        "embed": "http://tv.roarzone.info/player.php?stream=edge2/star-jalsha",
-        "userAgent": "",
+        "name": "Zee Bangla",
+        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png",
+        "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd",
+        "clearkey": "1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe",
+        "referer": ""
+    },
+    {
+        "name": "Zee Bangala Cinema",
+        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png",
+        "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+        "clearkey": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
         "referer": ""
     }
     
