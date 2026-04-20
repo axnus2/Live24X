@@ -1,18 +1,18 @@
 [
-{
-        "name": "Main",
-        "url": "https://live24-x.vercel.app/tvone.json"
-    },
-    {
-        "name": "tv1",
-        "url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u"
-    },
-   {
-        "name": "tof",
-        "url": "https://pix-4y.pages.dev/playlist.m3u8"
-    },
-    {
-        "name": "tv2",
-        "url": "https://raw.githubusercontent.com/axnus2/Live24X/refs/heads/main/tv1.m3u"
-    }
+  {
+    "name": "Main",
+    "url": "https://live24-x.vercel.app/tvone.json"
+  },
+  {
+    "name": "tv1",
+    "url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u"
+  },
+  {
+    "name": "tof",
+    "url": "https://pix-4y.pages.dev/playlist.m3u8"
+  },
+  {
+    "name": "tv2",
+    "url": "https://raw.githubusercontent.com/axnus2/Live24X/refs/heads/main/tv1.m3u"
+  }
 ]
