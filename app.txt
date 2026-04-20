@@ -1,4 +1,8 @@
 [
+{
+        "name": "Main",
+        "url": "https://live24-x.vercel.app/tvone.json"
+    },
     {
         "name": "tv1",
         "url": "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u"
