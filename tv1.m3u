@@ -1,3 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha
+http://tv.ftpbdlive.com:80/play/N3F2L6dN-Su4qdbGqaA2g3runUXPZDRjZXxaAI4ED9cwuSISRDpUfrLiedjkoy8b/m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png",Jalsha Movies
+http://tv.ftpbdlive.com:80/play/N3F2L6dN-Su4qdbGqaA2g0RVcwH1JDcv_2D3fwk72NFGJvDR0-GzJ6mTt1hwSEa8/m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla HD
+http://tv.ftpbdlive.com:80/play/N3F2L6dN-Su4qdbGqaA2g2IkqcklgcaxFfi2mFIFoc_oysj2Eur2dZT5WdFoUmbo/m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9O2IyXcMi6NJa1UC9O3BmWSnDT--DNqGNMg&s",Colors Bangla Cinema
+http://tv.ftpbdlive.com:80/play/N3F2L6dN-Su4qdbGqaA2g5UPGUCtpLo-YWa-QiuDZDdJ1VzhqdlM1yHMosFhqtt2/m3u8
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png",Zee Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png",Zee Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png",TEST
+http://ftpbdlive.com/img/play.php?stream=STAR-JALSHA
 
 
 # ===== SPORTS =====
