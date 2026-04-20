@@ -40,6 +40,13 @@
         "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
         "clearkey": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
         "referer": ""
+    },
+    {
+        "name": "TEST",
+        "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png",
+        "embed": "http://ftpbdlive.com/img/play.php?stream=STAR-JALSHA",
+        "clearkey": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+        "referer": ""
     }
     
 ]
