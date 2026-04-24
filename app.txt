@@ -13,6 +13,6 @@
   },
   {
     "name": "tv2",
-    "url": "https://raw.githubusercontent.com/axnus2/Live24X/refs/heads/main/tv1.m3u"
+    "url": "https://live24-x.vercel.app/next.m3u"
   }
 ]
