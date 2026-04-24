@@ -1,15 +1,24 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-title="Kalkata-Bangla", Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha FTP
+https://roar.hexvai56.workers.dev/edge2/star-jalsha.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies FTP
+https://roar.hexvai56.workers.dev/edge2/jalsha-movies.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla FTP
+https://roar.hexvai56.workers.dev/edge2/colors-bangla.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Kalkata-Bangla", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha FTP
-https://roar.hexvai56.workers.dev/edge2/star-jalsha.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-title="Kalkata-Bangla", Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+
 
 
 
@@ -22,18 +31,12 @@ http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Kalkata-Bangla",Star Jalsha FHD
 https://api.maxliv.top/not/441082.m3u8
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies FTP
-https://roar.hexvai56.workers.dev/edge2/jalsha-movies.m3u8
-
 
 
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies HD
 http://198.195.239.50:8095/JalshaMovies/index.m3u8
 
 
-
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla FTP
-https://roar.hexvai56.workers.dev/edge2/colors-bangla.m3u8
 
 
 
@@ -101,7 +104,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj"group-title="Hindi Movies" group-title="Hindi Movies",Star Gold
+https://roar.hexvai56.workers.dev/edge2/star-gold.m3u8
 
 
 
