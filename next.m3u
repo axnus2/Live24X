@@ -1,11 +1,22 @@
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha FTP
 https://roar.hexvai56.workers.dev/edge2/star-jalsha.m3u8
 
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha (BK)
+https://bro.hexvai56.workers.dev/908682.m3u8
+
+
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies FTP
 https://roar.hexvai56.workers.dev/edge2/jalsha-movies.m3u8
 
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies (BK)
+https://bro.hexvai56.workers.dev/908656.m3u8
+
+
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla FTP
 https://roar.hexvai56.workers.dev/edge2/colors-bangla.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla (BK)
+https://bro.hexvai56.workers.dev/908654.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
@@ -20,21 +31,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 
 
-
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Kalkata-Bangla",Star Jalsha SD
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha HD
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Kalkata-Bangla",Star Jalsha FHD
-https://api.maxliv.top/not/441082.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies HD
-http://198.195.239.50:8095/JalshaMovies/index.m3u8
 
 
 
