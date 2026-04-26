@@ -102,6 +102,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangladesh",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
+#EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Bangladesh",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Boishakhi TV" group-title="Bangladesh",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj"group-title="Hindi Movies" group-title="Hindi Movies",Star Gold
@@ -119,20 +125,33 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
+#EXTINF:-1 tvg-logo="https://www.goldmines.co.in/assets/img/sites/s4.jpg" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
 https://starsportshindiii.pages.dev/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wZNZDQmr2Zct4_ETjKLkrcTKuN81wYEK527pxhoun-hMXFDTVYQYXhCoYZG8TgOSBp0s_NC5uw=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies",Goldmines Movies 2
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD47hdrIDiKbk0U5HyVXuHJfdMea_DNksqVw&s" tvg-name="Doraemon" group-title="KIDS",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" tvg-name="Gopal Bhar" group-title="KIDS",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" tvg-name="Motu Patlu" group-title="KIDS",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg" tvg-name="Motu Patlu" group-title="KIDS",Ninja Hattori
+https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
 
 
 
