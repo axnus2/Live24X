@@ -52,6 +52,10 @@
     "logo": "https://i.ibb.co.com/WvgVhs7k/image.png"
   },
 {
+    "name": "Cricket | T20 International",
+    "logo": "https://i.ibb.co.com/WvgVhs7k/image.png"
+  },
+{
     "name": "Cricket | Indian Premier League",
     "logo": "https://crystalpng.com/wp-content/uploads/2025/09/ipl-logo.png"
   }
