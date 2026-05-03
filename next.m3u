@@ -233,6 +233,9 @@ https://roar.hexvai56.workers.dev/edge2/star-sports-select-1.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h", group-title="Sports", Star Sport Select 2
 https://roar.hexvai56.workers.dev/edge2/star-sports-select-2.m3u8
 
+#EXTINF:-1 tvg-logo="", Movie", Happy Raj
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/Happy%20Raj%20(2026)%201080p%20WEBDL.mp4
+
 
 
 
