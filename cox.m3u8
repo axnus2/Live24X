@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+
+#EXTINF:6.0,
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=908665&extension=ts
+#EXTINF:6.0,
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=908665&extension=ts
+#EXTINF:6.0,
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:72:72:A8&stream=908665&extension=ts
