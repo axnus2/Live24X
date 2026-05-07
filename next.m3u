@@ -1,38 +1,26 @@
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla (PS)
-https://backend.plusbox.tv/ColorsBangla/index.m3u8?token=
 
 
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha FTP
-https://roar.hexvai56.workers.dev/edge2/star-jalsha.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha-PS
+https://backend.plusbox.tv/StarJalshaHD/index.m3u8?token=
+
 
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha
 http://103.229.254.25:7001/play/a0c0/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://appstv.bdixbd.net/images/32460_Star Jalsha1664976894.png",Star Jalsha (BK)
-https://bro.hexvai56.workers.dev/908682.m3u8
-
-
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies FTP
-https://roar.hexvai56.workers.dev/edge2/jalsha-movies.m3u8
-
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies-PS
+https://bro.hexvai56.workers.dev/908656.m3u8
 
 
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies FTP
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies (BK)
-https://bro.hexvai56.workers.dev/908656.m3u8
 
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla BK
-http://103.229.254.25:7001/play/a0ds/index.m3u8
 
-
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",RR Colors BanglA
-https://live24op.pages.dev/co.m3u8
-
+#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla-PS
+https://backend.plusbox.tv/ColorsBangla/index.m3u8?token=
 
 
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colorsx Bangla SD
@@ -40,8 +28,7 @@ https://bro.hexvai56.workers.dev/908665.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="https://yt3.googleusercontent.com/O3L82mvPmepQ_iUA14ybkI5GiSZger9hMMvF_LHOyL_Cbzr5UICcSOes3XhFu1GDdnGB5v5I=s900-c-k-c0x00ffffff-no-rj",Colors Bangla (BK)
-http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+
 
 
 
@@ -58,8 +45,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Kalkata-Bangla",Star Jalsha SD
-https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 
 
 
@@ -168,8 +153,8 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.goldmines.co.in/assets/img/sites/s4.jpg" group-title="Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports" group-title="",Live Sports
-https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/stargoldhd.png" group-title="Movies", Star Gold HD
+https://backend.plusbox.tv/StarGoldHD/index.m3u8?token=
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wZNZDQmr2Zct4_ETjKLkrcTKuN81wYEK527pxhoun-hMXFDTVYQYXhCoYZG8TgOSBp0s_NC5uw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 2
@@ -216,6 +201,8 @@ https://cdn01.medialive.one:2096/HBO3FHD/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png",  group-title="Sports", T SPORTS-PS
+https://backend.plusbox.tv/TSports/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png", group-title="Sports", T SPORTS
 https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/index.m3u8
@@ -238,13 +225,14 @@ https://roar.hexvai56.workers.dev/edge2/star-sports-select-1.m3u8
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h", group-title="Sports", Star Sport Select 2
 https://roar.hexvai56.workers.dev/edge2/star-sports-select-2.m3u8
 
-#EXTINF:-1 tvg-logo="", Movie", Happy Raj
-http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/Happy%20Raj%20(2026)%201080p%20WEBDL.mp4
 
 
 
 
 
+
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/discoveryhdworld.png", group-title="Family", Discovery HD
+https://backend.plusbox.tv/DiscoveryHD/index.m3u8?token=
 
 
 
