@@ -8,7 +8,7 @@ http://103.179.25.147:8181/STAR_JALSHA/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies-PS
-https://bro.hexvai56.workers.dev/908656.m3u8
+http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Star Jalsha" group-title="Kalkata-Bangla" tvg-logo="http://198.195.239.50/img/channels/jalshamovies.png",Jalsha Movies FTP
@@ -152,7 +152,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/stargoldhd.png" group-title="Movies", Star Gold HD
-https://backend.plusbox.tv/StarGoldHD/index.m3u8?token=
+http://103.89.248.130:8082/star-gold/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wZNZDQmr2Zct4_ETjKLkrcTKuN81wYEK527pxhoun-hMXFDTVYQYXhCoYZG8TgOSBp0s_NC5uw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 2
@@ -199,8 +199,7 @@ https://cdn01.medialive.one:2096/HBO3FHD/tracks-v1a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png",  group-title="Sports", T SPORTS-PS
-https://backend.plusbox.tv/TSports/index.m3u8?token=
+
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png", group-title="Sports", T SPORTS
 https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/index.m3u8
@@ -230,7 +229,7 @@ https://roar.hexvai56.workers.dev/edge2/star-sports-select-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/discoveryhdworld.png", group-title="Family", Discovery HD
-https://backend.plusbox.tv/DiscoveryHD/index.m3u8?token=
+http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
 
 
 
