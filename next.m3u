@@ -230,7 +230,7 @@ http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1507708949_bein2.jpg", group-title="FIFA WC 2026",  Bein Sports 2
-https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/Bein2.m3u8
+http://203.18.159.180/t.me/BDIX_Bypass_josh_RamboBeIN_Sports_5_7L6a9O2p75/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png", group-title="FIFA WC 2026", T SPORTS
 http://172.28.28.27:8088/T-SPORTS-2/tracks-v1a1/mono.m3u8
