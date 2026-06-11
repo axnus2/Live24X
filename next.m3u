@@ -236,9 +236,10 @@ https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/Bein2.m3u8
 http://172.28.28.27:8088/T-SPORTS-2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://d2u0ktu8omkpf6.cloudfront.net/acd4e897b3af3005b0aa2f835a78064eb40690dcebb9d1a7.jpg", group-title="FIFA WC 2026", SOMOY TV IP
-http://103.89.248.130:8082/FIFA-World-Cup-Live/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://d2u0ktu8omkpf6.cloudfront.net/acd4e897b3af3005b0aa2f835a78064eb40690dcebb9d1a7.jpg", group-title="FIFA WC 2026", SOMOY TV IP2
+http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2u0ktu8omkpf6.cloudfront.net/acd4e897b3af3005b0aa2f835a78064eb40690dcebb9d1a7.jpg", group-title="FIFA WC 2026", SOMOY TV
 http://10.10.10.11/stream/somoy/tracks-v1a1/mono.m3u8
@@ -248,8 +249,15 @@ http://10.10.10.11/stream/somoy/tracks-v1a1/mono.m3u8
 http://103.89.248.130:8082/FIFA-World-Cup-Live-1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="FIFA WC 2026", PTV
-https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="", group-title="FIFA WC 2026", FIFA 
+http://103.89.248.130:8082/FIFA-World-Cup-Live-2/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="FIFA WC 2026", PTV IP
+http://103.89.248.130:8082/FIFA-World-Cup-Live/tracks-v1a1/mono.m3u8
 
 
 
