@@ -228,6 +228,10 @@ http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
 #FIFA WC 2026
 
 
+
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1507708949_bein2.jpg", group-title="FIFA WC 2026",  Bein Sports 2
+https://pub-b6a2e12c8294473a88fb9c317217dbbc.r2.dev/Bein2.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png", group-title="FIFA WC 2026", T SPORTS
 http://172.28.28.27:8088/T-SPORTS-2/tracks-v1a1/mono.m3u8
 
@@ -259,3 +263,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB2sH0_6AcoSiB3v-Wv9i3cz8hs0KZpLsCgPM5dxsaslqO5ESUSlq_yPQR&s=10", group-title="FIFA WC 2026", TYC SPORTS
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbBZjhswVFu9yL6IDjT2xi2l2YuCBEn1azrQ&s", group-title="FIFA WC 2026",   MNB Sports
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
+
+
+
+
+
+
+
