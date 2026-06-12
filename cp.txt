@@ -1,4 +1,8 @@
 [
+{
+    "name": "FootBall | FIFA World Cup",
+    "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/large/q-dAWZtU9bsEICjc4eDJK.png"
+  },
   {
     "name": "FootBall | La Liga",
     "logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/8Z71jZzpl-hQCQdkPZ-qy.png"
