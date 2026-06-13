@@ -210,41 +210,17 @@ http://103.89.248.130:8082/DISCOVERY-HD/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1507708949_bein2.jpg", group-title="FIFA WC 2026",  Bein Sports 2
-http://203.18.159.180/t.me/BDIX_Bypass_josh_RamboBeIN_Sports_5_7L6a9O2p75/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQei6AMWgj9_BiwXAIX06OKaV--X-QN8WY76DWtSdSthqzgUds-UPlz4&s=10", tvg-name="CAZE TV - AQ" group-title="FIFA WC 2026",DULD SPORTS 
 https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png", group-title="FIFA WC 2026", T SPORTS
-http://172.28.28.27:8088/T-SPORTS-2/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://d2u0ktu8omkpf6.cloudfront.net/acd4e897b3af3005b0aa2f835a78064eb40690dcebb9d1a7.jpg", group-title="FIFA WC 2026", SOMOY TV IP2
-http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2u0ktu8omkpf6.cloudfront.net/acd4e897b3af3005b0aa2f835a78064eb40690dcebb9d1a7.jpg", group-title="FIFA WC 2026", SOMOY TV
 http://10.10.10.11/stream/somoy/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thereport.live/media/imgAll/2024November/BTV-20260609075345.webp", group-title="FIFA WC 2026", BTV TV
-http://103.89.248.130:8082/FIFA-World-Cup-Live-1/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="", group-title="FIFA WC 2026", FIFA 
-http://103.89.248.130:8082/FIFA-World-Cup-Live-2/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="FIFA WC 2026", PTV IP
-http://103.89.248.130:8082/FIFA-World-Cup-Live/tracks-v1a1/mono.m3u8
-
-
+#
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
