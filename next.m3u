@@ -44,32 +44,6 @@
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Kalkata-Bangla", Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kalkata-Bangla",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://karthavya.com/wp-content/uploads/2022/12/akash-bangla.jpg" group-title="Kalkata-Bangla",AAKASH AATH
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
-
-
-
-
 ====================================================================================================
 
 
@@ -77,67 +51,9 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Movies" group-title="Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Movies", Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.goldmines.co.in/assets/img/sites/s4.jpg" group-title="Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/stargoldhd.png" group-title="Movies", Star Gold HD
-http://103.89.248.130:8082/star-gold/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wZNZDQmr2Zct4_ETjKLkrcTKuN81wYEK527pxhoun-hMXFDTVYQYXhCoYZG8TgOSBp0s_NC5uw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 2
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD47hdrIDiKbk0U5HyVXuHJfdMea_DNksqVw&s" tvg-name="Doraemon" group-title="KIDS",Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg" tvg-name="Gopal Bhar" group-title="KIDS",Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" tvg-name="Motu Patlu" group-title="KIDS",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg" tvg-name="Motu Patlu" group-title="KIDS",Ninja Hattori
-https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380" group-title="Musical",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJZRw6n.png" group-title="Musical", 8XM
-https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=s900-c-k-c0x00ffffff-no-rj" group-title="Musical", 9X Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dE3lROc.png" group-title="English", HBO
-#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group",NAME="Server 2",URI="https://tvsen5.aynascope.net/hbo/index.m3u8?e=1777786521&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e92e0f124e5f6767aa0345619677201b"
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C247/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba"group-title="English", HBO 2
-https://cdn01.medialive.one:2096/HBO2FHD/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gh4KKWc.png" group-title="English",HBO3
-https://cdn01.medialive.one:2096/HBO3FHD/tracks-v1a1/mono.ts.m3u8
 
 
 
